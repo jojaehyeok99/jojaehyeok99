@@ -34,6 +34,6 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jojaehyeok99g&show_icons=true&theme=gotham&locale=en" alt="jojaehyeok99" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jojaehyeok99&show_icons=true&theme=gotham&locale=en" alt="jojaehyeok99" /></p>
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojaehyeok99&theme=gotham" alt="jojaehyeok99" /></p>
